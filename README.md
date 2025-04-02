@@ -42,3 +42,11 @@ The methodology consists of the following steps:
 
 - Considered the potential for omitted variable bias and the limitations of the survey-based dataset.
 
+## Conclusion
+This project set out to explore the factors associated with college GPA using survey data from nearly 10,000 students across 119 four-year U.S. colleges. Through descriptive analysis and linear regression modeling, I examined how variables such as gender, class year, employment during the school year, substance use, and drinking behavior relate to academic performance.
+
+The results suggest that GPA is influenced by a combination of demographic and lifestyle factors. For instance, working during the academic year and certain behaviors like marijuana use showed a measurable association with lower GPA, while academic standing (e.g., being a senior vs. a freshman) also revealed significant differences. Gender differences were also observed, with male students, on average, reporting slightly lower GPAs than their female counterparts.
+
+By testing specific hypotheses and comparing model performance using adjusted R², RMSE, and significance levels, this analysis provided insights into how different variables contribute to academic outcomes. Overall, the project highlights the value of data analysis in understanding student experiences and can help inform support strategies for improving academic performance in higher education settings.
+
+This project also reflects my strong interest in using data to uncover patterns in human behavior and education, while strengthening my skills in statistical modeling, hypothesis testing, and real-world data interpretation.
